@@ -1,0 +1,19 @@
+# CLion IDE files
+.idea/
+cmake-build-*/
+*.user
+*.swp
+*.swo
+*.~*
+*.orig
+
+# Build files
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# System files
+.DS_Store
+Thumbs.db
